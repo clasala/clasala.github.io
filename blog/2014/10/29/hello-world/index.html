@@ -34,6 +34,39 @@
 <link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:200,300,400,500,600,700,900' rel='stylesheet' type='text/css'>
 
 
+	<!-- mathjax config similar to math.stackexchange -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$$','$$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i=0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+    });
+</script>
+
+<script type="text/javascript"
+   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
 
 
   
@@ -76,9 +109,9 @@
   </header>
 
 
-<div class="entry-content"><h1>Primo post</h1>
+<div class="entry-content"><h1 id="primo-post">Primo post</h1>
 
-<h3>prova</h3>
+<h3 id="prova">prova</h3>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio beatae culpa, eaque cum quisquam voluptates, ut dicta illum laboriosam, minus ea aut maxime quaerat saepe. Culpa adipisci a ipsam asperiores.</p>
 </div>
@@ -132,7 +165,7 @@
 <aside class="sidebar">
   
     <section id="titles">
-  <a href="http://clasala.github.io" title="Scatola Verde"><img id="logo" src="http://clasala.github.io/images/" /></a>
+  <a href="http://clasala.github.io" title="Scatola Verde"><img id="logo" src="http://clasala.github.io/images/logo.png" /></a>
   <h1 id="site_title"><a href="http://clasala.github.io" title="Scatola Verde">Scatola Verde</a></h1>
   <h3 id="site_subtitle">Un archivio</h3>
 </section>

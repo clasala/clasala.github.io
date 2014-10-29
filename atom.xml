@@ -4,7 +4,7 @@
   <title><![CDATA[Scatola Verde]]></title>
   <link href="http://clasala.github.io/atom.xml" rel="self"/>
   <link href="http://clasala.github.io/"/>
-  <updated>2014-10-29T16:05:06+01:00</updated>
+  <updated>2014-10-29T16:11:03+01:00</updated>
   <id>http://clasala.github.io/</id>
   <author>
     <name><![CDATA[Cla]]></name>
@@ -18,8 +18,7 @@
     <link href="http://clasala.github.io/blog/2014/10/29/secondo-post/"/>
     <updated>2014-10-29T15:50:17+01:00</updated>
     <id>http://clasala.github.io/blog/2014/10/29/secondo-post</id>
-    <content type="html"><![CDATA[<h1>Prova</h1>
-
+    <content type="html"><![CDATA[<h1 id="prova">Prova</h1>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum id, dicta vel magni perspiciatis labore, quasi aperiam laudantium quod dolor autem voluptatem fuga ut vitae velit in omnis doloribus quidem?</p>
 ]]></content>
   </entry>
@@ -29,9 +28,9 @@
     <link href="http://clasala.github.io/blog/2014/10/29/hello-world/"/>
     <updated>2014-10-29T15:28:06+01:00</updated>
     <id>http://clasala.github.io/blog/2014/10/29/hello-world</id>
-    <content type="html"><![CDATA[<h1>Primo post</h1>
+    <content type="html"><![CDATA[<h1 id="primo-post">Primo post</h1>
 
-<h3>prova</h3>
+<h3 id="prova">prova</h3>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio beatae culpa, eaque cum quisquam voluptates, ut dicta illum laboriosam, minus ea aut maxime quaerat saepe. Culpa adipisci a ipsam asperiores.</p>
 ]]></content>
