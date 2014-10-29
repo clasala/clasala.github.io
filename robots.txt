@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://clasala.github.io/sitemap.xml 
