@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Scatola Verde]]></title>
   <link href="http://clasala.github.io/atom.xml" rel="self"/>
   <link href="http://clasala.github.io/"/>
-  <updated>2014-10-29T15:17:22+01:00</updated>
+  <updated>2014-10-29T15:28:51+01:00</updated>
   <id>http://clasala.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Cla]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://clasala.github.io/blog/2014/10/29/hello-world/"/>
+    <updated>2014-10-29T15:28:06+01:00</updated>
+    <id>http://clasala.github.io/blog/2014/10/29/hello-world</id>
+    <content type="html"><![CDATA[<h1>Primo post</h1>
+
+<h3>prova</h3>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio beatae culpa, eaque cum quisquam voluptates, ut dicta illum laboriosam, minus ea aut maxime quaerat saepe. Culpa adipisci a ipsam asperiores.</p>
+]]></content>
+  </entry>
   
 </feed>
