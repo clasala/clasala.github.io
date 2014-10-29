@@ -4,7 +4,7 @@
   <title><![CDATA[Scatola Verde]]></title>
   <link href="http://clasala.github.io/atom.xml" rel="self"/>
   <link href="http://clasala.github.io/"/>
-  <updated>2014-10-29T15:28:51+01:00</updated>
+  <updated>2014-10-29T15:50:37+01:00</updated>
   <id>http://clasala.github.io/</id>
   <author>
     <name><![CDATA[Cla]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Secondo Post]]></title>
+    <link href="http://clasala.github.io/blog/2014/10/29/secondo-post/"/>
+    <updated>2014-10-29T15:50:17+01:00</updated>
+    <id>http://clasala.github.io/blog/2014/10/29/secondo-post</id>
+    <content type="html"><![CDATA[<h1>Prova</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum id, dicta vel magni perspiciatis labore, quasi aperiam laudantium quod dolor autem voluptatem fuga ut vitae velit in omnis doloribus quidem?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
